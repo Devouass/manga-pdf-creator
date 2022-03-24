@@ -1,0 +1,6 @@
+#exclude donwload directory
+run.sh
+/manga/*
+/pdf/*
+__pycache__/*
+**/__pycache__/*
